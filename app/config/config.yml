@@ -84,4 +84,3 @@ hwi_oauth:
             type:                facebook
             client_id:           209552042552921
             client_secret:       41368ff809e8431159af0da547a57cbe
-            scope:               "email"
